@@ -14,3 +14,14 @@ This repository Contains two Python Script
 **How to run**:
 
 python task1.py
+
+# Task-2 Greeting with Full Name
+
+**Functionality**:
+- Takes the user's first and last name as input.
+- Combines them into a full name.
+- Displays a personalized greeting message using the full name.
+
+**How to run**:
+
+python task2.py
