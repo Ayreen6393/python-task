@@ -15,6 +15,15 @@ This repository Contains two Python Script
 
 python task1.py
 
+a = input("Enter num1 : ")
+a = float(a)
+b = input("Enter num2 : ")
+b = float(b)
+print("Addition : ",a+b)
+print("Subtraction : ",a-b)
+print("Multiplication : ",a*b)
+print("Division : ",a/b)
+
 # Task-2 Greeting with Full Name
 
 **Functionality**:
@@ -25,3 +34,9 @@ python task1.py
 **How to run**:
 
 python task2.py
+
+fname = input("Enter your first name : ")
+lname = input("Enter your last name : ")
+print("First name :",fname)
+print("Last name :",lname,"\n")
+print("Hello",fname+lname,"! Welcome to Python Project")
